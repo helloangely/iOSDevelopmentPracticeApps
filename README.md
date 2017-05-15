@@ -13,7 +13,7 @@ The course covered topics:
   * autolayout for user interfaces
   * Container View Controllers: UITabBarController
   * persistent storage: filesystem access, user preferences, the Settings bundle
-  * if time permits: drawing in UIView, the multitouch interface
+  * drawing in UIView, the multitouch interface
 
   * iOS programming APIs review
   * Swift programming language review
