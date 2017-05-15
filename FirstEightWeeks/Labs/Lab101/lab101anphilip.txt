@@ -1,0 +1,12 @@
+1. angely rose philip, computer science b.s., may 2017
+2. learn about the fundamentals of iOS development
+3. no previous iOS programming experience
+4. no mobile programming experience
+5. no mac os x programing experience
+6. python, java, perl
+7. c211 fall 2014, c212 spring 2015, c343 fall 2015
+8. 8
+9. understand swift and also what happens when swift is interpreted by iOS (resource allocation, cache, storage)
+10. balance of understanding swift and also the iOS
+11. yes, iPhone 5s
+12. yes, macbook pro 2013

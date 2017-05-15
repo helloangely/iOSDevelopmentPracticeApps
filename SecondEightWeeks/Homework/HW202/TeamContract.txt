@@ -1,0 +1,17 @@
+Angely Philip anphilip
+Jacob Miller jpm2
+
+priorityQ
+
+submission date and time: 7:20pm Monday, November 4th 2016
+
+
+Team Contract
+—————————————
+
+November 14 - basic UI functionalities 
+November 17 - all data structures in place
+November 28 - prioritizing model finished
+December 1 - fully working application
+December 5 - presentation complete
+December 12 - excelled during presentation
